@@ -1,11 +1,3 @@
-
-blacklist.txt
-
-Сторінка
-1
-/
-1
-100%
 # Blacklist — disposable/fraud email domains
 # Total: 2545
 0ranges.com
