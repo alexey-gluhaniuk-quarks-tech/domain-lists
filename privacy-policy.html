@@ -1,0 +1,29 @@
+Privacy Policy – Domain Flag
+Last updated: May 2026
+
+Overview
+Domain Flag is an internal Chrome extension for moderators. It does not collect, store, or transmit any personal data of end users.
+
+Data collected
+The extension stores the following data locally in the browser (chrome.storage.local):
+
+Moderator name (entered manually by the moderator)
+Local domain whitelist (domains marked as legitimate by the moderator)
+Cached blacklist (fetched from GitHub, stored temporarily)
+This data never leaves the browser except for the moderator name, which is included in submissions to an internal Google Sheet when a domain is flagged as fraud.
+
+Data transmitted
+When a moderator flags a domain as fraud, the following data is sent to an internal Google Sheet via Google Apps Script:
+
+Email domain (e.g. example.com)
+Profile ID (visible on the admin page)
+Moderator name
+Timestamp
+Optional comment
+This data is used solely for internal fraud prevention purposes and is not shared with third parties.
+
+Third-party services
+GitHub – used to fetch the domain blacklist (read-only)
+Google Sheets / Apps Script – used to store flagged domains internally
+Contact
+For questions about this policy, contact: alexey.gluhaniuk@moderation.quarks.tech
