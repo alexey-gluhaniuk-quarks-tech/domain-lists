@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 2545
+# Total: 2576
 0ranges.com
 0tires.com
 10kbatch.com
@@ -22,6 +22,7 @@
 4each.me
 4eveny.com
 4heats.com
+4nly.com
 5fivem.shop
 5k2u.com
 64ge.com
@@ -93,6 +94,7 @@ akunkuat.com
 aladeen.org
 albarulo.com
 alexida.com
+alf5.com
 aliban.org
 alibrs.com
 alibto.com
@@ -275,6 +277,7 @@ blongmail.com
 blouseness.com
 bltiwd.com
 bluecny.com
+bluemailx.com
 blueportalmail.com
 bluetnc.com
 bmixr.com
@@ -302,6 +305,7 @@ boyaga.com
 boyhue9x.com
 boyhue9x.shop
 bqhonda.com
+brafall.com
 braloon.com
 brand-app.biz
 brandoza.com
@@ -576,6 +580,8 @@ dollstore.org
 domainstream.org
 domioni.pro
 doncong.com
+donumart.com
+doreact.com
 dorede.com
 dosonex.com
 dotvilla.com
@@ -732,6 +738,7 @@ farebus.com
 fashlend.com
 fastmail.us
 favilu.com
+faxzu.com
 fcplanned.com
 feanzier.com
 fectode.com
@@ -776,6 +783,7 @@ fitwl.com
 fitzola.com
 fivefriendsmail.com
 fivermail.com
+fivueriti.com
 fixedfor.com
 fixwap.com
 fizxo.com
@@ -785,6 +793,7 @@ flexvio.com
 flledge.com
 flmcat.com
 floodment.com
+flosek.com
 flutred.com
 flutter.cv
 flyerzwtxk.com
@@ -910,6 +919,7 @@ goflipa.com
 gofunid.icu
 gongjua.com
 gonrr.net
+googxs.com
 gopicta.com
 goqoez.com
 gosarlar.com
@@ -985,6 +995,7 @@ hikie.pro
 hikuhu.com
 hirevia.cfd
 hisrher.com
+hitzcart.com
 hjmail.in.net
 hlongmail.com
 hometownyi.com
@@ -1016,6 +1027,7 @@ htoal.com
 htpquiet.com
 httpsu.com
 httptuan.com
+hu.xintaitong.com
 hublinestream.com
 hudisk.com
 huhushengfeng.info
@@ -1041,6 +1053,7 @@ idoidraw.com
 idvinced.com
 idwager.com
 iemail.fun
+ifcoat.com
 ifeaturefr.com
 ihgu.info
 ihnpo.com
@@ -1390,11 +1403,13 @@ maonyn.com
 marchub.com
 mardiek.com
 marikuza.com
+marineso.com
 marketstore.pw
 marsalriera.com
 mashorts.com
 massefm.com
 matelecombd.com
+matkind.com
 matmayer.com
 matra.top
 matrixvega.com
@@ -1414,6 +1429,7 @@ mddoyle.com
 mdlzxg.shop
 meadowutilities.com
 meantinc.com
+medevsa.com
 mediaeast.uk
 mediaholy.com
 megamyx.win
@@ -1442,6 +1458,7 @@ mimimail.me
 minafter.com
 minduls.com
 minetmail.com
+minitts.net
 minofangle.org
 minvolvesjv.com
 miqlab.com
@@ -1492,12 +1509,14 @@ mrotzis.com
 msback.com
 msssg.com
 mstcons.com.vn
+mtupu.com
 mubombie.shop
 mucate.com
 muell.io
 muellmail.com
 mugstock.com
 munik.edu.pl
+muskarm.com
 mustbeit.com
 muzitp.com
 mv6a.com
@@ -1527,6 +1546,7 @@ nanana.uk
 nanatha.academy
 naobk.com
 naqulu.com
+narrowment.com
 nasmis.com
 nasskar.com
 nastyx.com
@@ -1722,10 +1742,13 @@ pariag.com
 pastryofistanbul.com
 paviri.com
 paxnw.com
+paylaar.com
 payposs.com
+pazard.com
 pazuric.com
 pbloodsgmu.com
 pbridal.com
+pckage.com
 pdf-cutter.com
 pegven.com
 penkalo.cc
@@ -1788,6 +1811,7 @@ powerery.com
 powerscrews.com
 powerssmo.com
 powmatic.com
+powpearl.com
 pprizesmnb.com
 prafessur.com
 prdalu.com
@@ -1865,6 +1889,7 @@ racovor.com
 radiant-flow.org
 raknife.com
 ramenmail.de
+ramynd.com
 randomail.io
 rantoro.com
 raotus.com
@@ -1921,6 +1946,7 @@ royalka.com
 rpdmarthab.com
 rphinfo.com
 rproductle.com
+rrc.rehearsalk.com
 rubeshi.com
 ruhtan.com
 ruincuit.com
@@ -1988,6 +2014,7 @@ sesxe.com
 sexgmail.com
 sexintens.cam
 sexmafia.online
+sexshop.baby
 sferelle.com
 sfolkar.com
 sfpixel.com
@@ -2052,6 +2079,7 @@ songyue.org
 sonrusu.com
 soombo.com
 sophiaa.autos
+soppat.com
 soraigc.com
 soremap.com
 sorte2.com
@@ -2107,6 +2135,7 @@ svetims.com
 svk.jp
 swastickbookbox.com
 sweatpopi.com
+swftbars.com
 swiftemail.dev
 swissmail.org
 swudutchyy.com
@@ -2234,6 +2263,7 @@ trashlify.com
 trejni.com
 trelatesd.com
 trenkita.com
+trepolan.com
 tribalks.com
 trilud.com
 trocipad.com
@@ -2423,6 +2453,7 @@ wlsom.com
 wmila.com
 wnbaldwy.com
 workinar.com
+workpolo.com
 wowclassic.top
 wrenden.com
 write7.com
@@ -2545,4 +2576,3 @@ zuile8.com
 zumaroll.com
 zvvzuv.com
 zypdi.com
-Відображається "blacklist.txt".
