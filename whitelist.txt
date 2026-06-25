@@ -1,6 +1,8 @@
 # Whitelist — legitimate email domains
-# Total: 46
+# Total: 54
+aol.com
 bk.ru
+clases.edu.sv
 email.com
 gen.tech
 gmail.com
@@ -20,8 +22,11 @@ kismia.com
 kismia.local
 list.ru
 live.com
+live.com.mx
 mail.com
+mail.de
 mail.ru
+me.com
 meta.ua
 o2.pl
 onet.pl
@@ -35,12 +40,15 @@ proton.me
 protonmail.com
 quarks.tech
 rambler.ru
+sfr.fr
 ukr.net
 web.de
 wp.pl
 ya.ru
+yahoo.co.uk
 yahoo.com
 yahoo.com.ar
+yahoo.com.br
 yahoo.com.mx
 yahoo.es
 yahoo.fr
