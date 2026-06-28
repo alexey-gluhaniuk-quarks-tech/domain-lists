@@ -1,5 +1,5 @@
 # Whitelist — legitimate email domains
-# Total: 54
+# Total: 66
 aol.com
 bk.ru
 bluewin.ch
