@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 5903
+# Total: 5947
 0-180.com
 0-30-24.com
 0-420.com
@@ -3282,6 +3282,9 @@
 8k.edu.jenile.biz.id
 8w3q0zls.mailosaur.net
 990ys.com
+<<<<<<< HEAD
+=======
+>>>>>>> 7bfa1c46012940866d80176f324f068741de4fbc
 a17z.it.com
 a826z.com
 aabkmail.com
@@ -3343,6 +3346,7 @@ akoption.com
 akugu.com
 akunkuat.com
 aladeen.org
+alazhi.org
 albarulo.com
 alexida.com
 alf5.com
@@ -3359,8 +3363,10 @@ alonecmw.com
 alpegui.com
 alphafrau.de
 altpano.com
+alunm.com
 alvisani.com
 amcret.com
+ameady.com
 amerinetgate.com
 ametitas.com
 amgens.com
@@ -3421,6 +3427,7 @@ asaption.com
 asaud.com
 asciibinder.net
 asimarif.com
+asitrai.com
 asoflex.com
 aspensif.com
 astarmax.com
@@ -3567,6 +3574,7 @@ brand-app.biz
 brandoza.com
 brasiliacadeia.shop
 brayy.com
+breaite.com
 breazeim.com
 brinkc.com
 brittneyda123.buzz
@@ -3578,6 +3586,7 @@ bscse.okcx.edu.rs
 bseee.okcx.edu.rs
 btcours.com
 btopenworld.com
+bui.rehearsalk.com
 buides.com
 bulmp3.com
 buomeng.com
@@ -3735,6 +3744,7 @@ cubene.com
 cucadas.com
 cudcis.com
 culbdom.com
+cunairt.com
 cuoly.com
 currently.com
 curuth.com
@@ -3777,6 +3787,7 @@ daxiake.com
 daypey.com
 dayrep.com
 dcobe.com
+ddd.lingeringp.com
 ddwfzp.com
 deallabs.org
 deapad.com
@@ -3826,10 +3837,7 @@ disefl.com
 dishcatfish.com
 disiok.com
 ditube.info
-<<<<<<< HEAD
 diurstb.com
-=======
->>>>>>> 7bfa1c46012940866d80176f324f068741de4fbc
 divahd.com
 dizigg.com
 djkux.com
@@ -3841,6 +3849,7 @@ dminutesfb.com
 dmonies.com
 dnitem.com
 docsfy.com
+doefy.com
 dogemn.com
 doglover.com
 doishy.com
@@ -3890,6 +3899,7 @@ dxirl.com
 dyleris.com
 e-mail.cafe
 eacademia.uk
+eagereverest.com
 earthrockies.xyz
 earthxqe.com
 easipro.com
@@ -4056,6 +4066,7 @@ fishnone.com
 fitwl.com
 fitzola.com
 fivefriendsmail.com
+fivejm.com
 fivermail.com
 fivueriti.com
 fixedfor.com
@@ -4200,6 +4211,7 @@ gopicta.com
 goqoez.com
 gosarlar.com
 gosiper.com
+gosstell.com
 gotemv.com
 gotgel.org
 gpipes.com
@@ -4252,6 +4264,7 @@ hausbrief.com
 hazhab.com
 hbviralbv.com
 hdg.homes
+heavty.com
 hebeer.com
 hedotu.com
 hegamespotr.com
@@ -4279,6 +4292,7 @@ hisrher.com
 hitzcart.com
 hjmail.in.net
 hlongmail.com
+homephit.com
 hometownyi.com
 hondsemi.com
 honeypie.store
@@ -4316,6 +4330,7 @@ huhushengfeng.info
 huizk.com
 huvacliq.com
 hype68.com
+i7.airfryersbg.com
 iamtile.com
 iapapi.com
 ibansko.com
@@ -4328,6 +4343,7 @@ ichigo.me
 icloneu.xyz
 icmans.com
 iconpo.com
+icotz.com
 icousd.com
 icywaveakari.space
 icznn.com
@@ -4497,6 +4513,7 @@ keyworddo.com
 kihasl.com
 kimdyn.com
 kindomd.com
+kinws.com
 kiplipli.com
 kisoq.com
 kissgy.com
@@ -4601,6 +4618,7 @@ linxues.com
 lite14.us
 litemail.cf
 litepax.com
+lmoir.com
 lnovic.com
 locawin.com
 lofiey.com
@@ -4617,6 +4635,7 @@ lorran78.shop
 lorranaccs.shop
 lotusinbox.org.uk
 lotuslantern.in.net
+lovadio.com
 loveprezzies.com
 lovleo.com
 lqmvjt.shop
@@ -4683,10 +4702,7 @@ mailshan.com
 mailslurp.biz
 mailto.plus
 mailtouiq.com
-<<<<<<< HEAD
 mailum.com
-=======
->>>>>>> 7bfa1c46012940866d80176f324f068741de4fbc
 mailvip.net
 maily.info
 makroyal.com
@@ -4765,6 +4781,7 @@ misehub.com
 missyou.life
 mistark.com
 mitigado.com
+mitvec.com
 mixinghphw.com
 mjoiuns.org
 mjqwfv.shop
@@ -4813,6 +4830,7 @@ muell.io
 muellmail.com
 mugstock.com
 muhaos.com
+muncloud.com
 munik.edu.pl
 muskarm.com
 mustbeit.com
@@ -4832,6 +4850,7 @@ myselfship.com
 mytaemin.com
 mytemails.com
 myweblaw.com
+myyahoo.com
 n.com
 nab4.com
 nabofa.com
@@ -5044,6 +5063,7 @@ paqba.com
 parentsxke.com
 pariag.com
 pastryofistanbul.com
+pavecode.com
 paviri.com
 paxnw.com
 paylaar.com
@@ -5203,6 +5223,7 @@ raotus.com
 rapidlyws.com
 rapt.be
 ratedane.com
+raxel.me
 raxio.app
 raymatc.com
 rayrayactive.com
@@ -5238,6 +5259,7 @@ ringment.com
 rinseart.com
 risu.be
 riwayeh.com
+rjsou.com
 rkytuhoney.com
 roastic.com
 roborena.com
@@ -5357,6 +5379,7 @@ sirprase.com
 sisood.com
 skalive.com
 skateru.com
+skatingion.com
 skiff.com
 skola.edu.pl
 skrak.com
@@ -5409,6 +5432,7 @@ sparkroi.com
 speedfex.com
 spicysoda.com
 spinly.net
+splindor.com
 sportizi.com
 sportrid.com
 spotale.com
@@ -5544,6 +5568,7 @@ tidissajiiu.com
 tiffincrane.com
 tijux.com
 tiksofi.uk
+timewebx.com
 tiongle.com
 tipent.com
 tippabble.com
@@ -5594,6 +5619,7 @@ trocipad.com
 troikos.com
 truemr.com
 truesku.com
+tt.ddip88.com
 ttta.xintaitong.com
 tuamaeaquelaursa.com
 tubeemail.com
@@ -5616,6 +5642,7 @@ uiemail.com
 uma3.be
 umail.asia
 unbanneds.shop
+unlikeyth.com
 uorak.com
 upgalumni.com
 upsnab.net
@@ -5673,6 +5700,7 @@ viasuma.com
 vibescapeo.study
 videnox.com
 viencel.com
+vigayu.com
 vigrado.com
 viicard.com
 vikinoko.com
@@ -5813,10 +5841,7 @@ xex.xintaitong.com
 xfavaj.com
 xghff.com
 xgshare.com
-<<<<<<< HEAD
 xi.xintaitong.com
-=======
->>>>>>> 7bfa1c46012940866d80176f324f068741de4fbc
 xidprinting.com
 xinboxo.org.uk
 xinflow.me.uk
@@ -5891,6 +5916,7 @@ zbock.com
 zccck.com
 zebita.com
 zecodo.com
+zei.xintaitong.com
 zeldme.com
 zelknow.com
 zemyai.com
