@@ -1,11 +1,12 @@
 # Whitelist — legitimate email domains
-# Total: 88
+# Total: 94
 aol.com
 bk.ru
 bluewin.ch
 clases.edu.sv
 club-internet.fr
 colegioarroyohondosd.com
+comcast.net
 duocuc.cl
 email.com
 eviapp.local
@@ -13,6 +14,7 @@ free.fr
 gen.tech
 gmail.com
 gmx.ch
+gmx.com
 gmx.de
 gmx.net
 googlemail.com
@@ -49,6 +51,7 @@ mail.ru
 me.com
 meta.ua
 msn.com
+naver.com
 o2.pl
 onet.pl
 op.pl
@@ -62,12 +65,15 @@ outlook.pt
 privaterelay.appleid.com
 proton.me
 protonmail.com
+qq.com
 quarks.tech
 rambler.ru
+sbcglobal.net
 seoane.edu.pe
 sfr.fr
 student.vvc.edu
 t-online.de
+tfbnw.net
 ucvvirtual.edu.pe
 ukr.net
 unifebe.edu.br

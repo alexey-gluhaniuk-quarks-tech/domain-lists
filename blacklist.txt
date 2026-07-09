@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 5947
+# Total: 5939
 0-180.com
 0-30-24.com
 0-420.com
@@ -3707,7 +3707,6 @@ cohdi.com
 colescho.us
 colimarl.com
 coloruz.com
-comcast.net
 comfythings.com
 competition.tel
 compressjpg.io
@@ -4199,7 +4198,6 @@ gmailot.com
 gmailqi.com
 gmailyue.com
 gmeenramy.com
-gmx.com
 goatmail.uk
 gocasin.com
 goflipa.com
@@ -4871,7 +4869,6 @@ natashux.biz.id
 nathanjudd.com
 naturalsrs.com
 navarroache.com
-naver.com
 naymedia.com
 naymio.com
 nbmbb.com
@@ -5160,8 +5157,6 @@ prono1gmail.com
 proporud.com
 prorsd.com
 protectsmail.net
-proton.me
-protonmail.com
 provko.com
 proxu.org
 psnator.com
@@ -5196,7 +5191,6 @@ qnmails.com
 qnorfolkx.com
 qpantam.fun
 qperformsrx.com
-qq.com
 qqpstudios.com
 quamox.com
 quantumdreamer.xyz
@@ -5313,7 +5307,6 @@ satigan.com
 satzv.com
 savdz.com
 sawaay.com
-sbcglobal.net
 sc2hub.com
 scammed.site
 scarden.com
@@ -5543,7 +5536,6 @@ terrenix.com
 terrorqb.com
 tevstart.com
 textfreess.us
-tfbnw.net
 tfwno.gf
 tgmph.com
 tgvis.com
