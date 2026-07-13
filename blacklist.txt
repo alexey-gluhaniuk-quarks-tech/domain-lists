@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 5939
+# Total: 5982
 0-180.com
 0-30-24.com
 0-420.com
@@ -5936,3 +5936,49 @@ zumaroll.com
 zvvzuv.com
 zypdi.com
 zzk.rehearsalk.com
+12icloud.com
+1bin.sbs
+acoxs.com
+ada.rehearsalk.com
+alazh.org
+azhsk.org
+bevriz.com
+boukshilf.com
+bpotogo.com
+buloan.com
+ce.xintaitong.com
+childrenth.com
+ddip88.com
+duvips.com
+dysonc.com
+epaynine.com
+ezimb.com
+fisedo.com
+gmaiilc.top
+gmaiillle.com
+gmail10p.com
+hidepost.net
+hostme.my.id
+imap.fr.nf
+lll.rehearsalk.com
+nnt.rehearsalk.com
+nuvox.email
+ospirun.com
+promcool.com
+qqq.xintaitong.com
+rehearsalk.com
+sasmil.org
+sasonse.com
+sealjump.com
+secria.me
+sousah.com
+sss.rehearsalk.com
+vovantus.com
+widenely.com
+wproll.com
+xintaitong.com
+xu.xintaitong.com
+yangca.us
+yemao.lat
+ymail.co
+zt.rehearsalk.com

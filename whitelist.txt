@@ -1,5 +1,5 @@
 # Whitelist — legitimate email domains
-# Total: 94
+# Total: 153
 126.com
 163.com
 aol.co.uk
@@ -145,3 +145,11 @@ yahoo.fr
 yandex.com
 yandex.ru
 ymail.com
+dr.com
+gmx.at
+hotmail.com.br
+live.com.au
+live.nl
+poczta.onet.eu
+yahoo.ie
+yahoo.in
