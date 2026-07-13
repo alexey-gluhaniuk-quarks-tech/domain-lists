@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 5982
+# Total: 5981
 0-180.com
 0-30-24.com
 0-420.com
@@ -5980,5 +5980,4 @@ xintaitong.com
 xu.xintaitong.com
 yangca.us
 yemao.lat
-ymail.co
 zt.rehearsalk.com
