@@ -1,0 +1,47 @@
+{
+  "manifest_version": 3,
+  "name": "Domain Flag",
+  "version": "2.3",
+  "description": "Detects unknown and disposable email domains in DDKit admin",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://admin.ddkit.io/*",
+    "*://script.google.com/*",
+    "*://raw.githubusercontent.com/*",
+    "*://cloudflare-dns.com/*",
+    "*://script.googleusercontent.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://admin.ddkit.io/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "styles.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Domain Flag",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
