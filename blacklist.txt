@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 5981
+# Total: 6023
 0-180.com
 0-30-24.com
 0-420.com
@@ -983,6 +983,7 @@
 12funnet.club
 12guitar.com
 12hosting.net
+12icloud.com
 12img.com
 12minutemail.com
 12minutospordia.com
@@ -1384,6 +1385,7 @@
 1bedpage.com
 1bel3.org.uk
 1betslife.com
+1bin.sbs
 1biyabeet.com
 1biyabet2020.com
 1bizshop.ru
@@ -3286,14 +3288,17 @@ a17z.it.com
 a826z.com
 aabkmail.com
 aaorsi.com
+aazhs.com
 abaot.com
 abatido.com
 abevw.com
 abnu.org
 aboodbab.com
 abosoltan.me
+academymail.in
 accommodate.top
 acedby.com
+acoxs.com
 acpeak.com
 acroins.com
 actinslma.ru
@@ -3301,6 +3306,7 @@ actrses.com
 acvina.com
 ad-managment.run.place
 ad2pixel.com
+ada.rehearsalk.com
 adadad.uk
 adagame.space
 adagame.store
@@ -3320,6 +3326,7 @@ affgame.com
 afia.pro
 afpeterg.com
 afterdo.com
+aganseo.com
 agenra.com
 agiuse.com
 agp.edu.pl
@@ -3343,6 +3350,7 @@ akoption.com
 akugu.com
 akunkuat.com
 aladeen.org
+alazh.org
 alazhi.org
 albarulo.com
 alexida.com
@@ -3394,12 +3402,14 @@ antttool.us
 anwarb.com
 anypsd.com
 aosod.com
+apdtax.com
 aperiol.com
 apifan.com
 apklamp.com
 aplix.id
 apocaw.com
 apolymerfp.com
+appbott.com
 apple.edu.pl
 appmail.uk
 appxapi.com
@@ -3451,6 +3461,7 @@ awnspeeds.com
 awsupplyk.com
 axcradio.com
 axnet.beauty
+azhsk.org
 azinsu.site
 azucore.com
 azuretechtalk.net
@@ -3468,11 +3479,13 @@ barakal.com
 bariswc.com
 baritonemail.ru
 barodis.com
+barumart.com
 basubesolost.buzz
 bauscn.com
 bawsny.com
 baxidy.com
 baxima.com
+bbb.youngestsd.com
 bbcgmail.com
 bbitf.com
 bbsaili.com
@@ -3488,14 +3501,17 @@ belettersmail.com
 belgianairways.com
 bellecour.it.com
 beltng.com
+benshelf.com
 benznoi.com
 berkeleyif.com
 besaies.com
 besenica.com
 besibali.com
 beskohub.online
+besteya.com
 beta.edu.pl
 betzenn.com
+bevriz.com
 beydent.com
 bezill.com
 bfncaring.com
@@ -3557,6 +3573,7 @@ boranora.com
 borealinbox.com
 boreorg.com
 boringity.com
+boukshilf.com
 boxfi.uk
 boxlive247.com
 boxmach.com
@@ -3564,6 +3581,7 @@ boxsphere.org
 boyaga.com
 boyhue9x.com
 boyhue9x.shop
+bpotogo.com
 bqhonda.com
 brafall.com
 braloon.com
@@ -3586,6 +3604,7 @@ btopenworld.com
 bui.rehearsalk.com
 buides.com
 bulmp3.com
+buloan.com
 buomeng.com
 burangir.com
 butcherity.com
@@ -3639,6 +3658,7 @@ cc11.headcc.io.vn
 ccmail.uk
 cctoolz.com
 cctyoo.com
+ce.xintaitong.com
 cegil.id
 celestialcrane.it.com
 centreszv.com
@@ -3646,6 +3666,7 @@ certve.com
 cetnob.com
 cevipsa.com
 cexch.com
+cftla.cl
 chainds.com
 chaineor.com
 chaladas.com
@@ -3654,7 +3675,9 @@ chansd.com
 chatdays.com
 chatxat.com
 chaublog.com
+checkedity.com
 chefalicious.com
+childrenth.com
 chimpad.com
 chinaqoe.com
 choco.la
@@ -3677,6 +3700,7 @@ claspira.com
 clayeastx.com
 clockance.com
 clockth.com
+cloud-temp.com
 cloudpagoda.org
 cloudpostie.com
 clout.wiki
@@ -3784,6 +3808,7 @@ daypey.com
 dayrep.com
 dcobe.com
 ddd.lingeringp.com
+ddip88.com
 ddwfzp.com
 deallabs.org
 deapad.com
@@ -3818,6 +3843,7 @@ dextrago.com
 deypo.com
 dfesc.com
 dghetian.com
+diarshop.com
 dickensmail.com
 diditcrosstheline.com
 diemhenvn.com
@@ -3835,6 +3861,7 @@ disiok.com
 ditube.info
 diurstb.com
 divahd.com
+diversifiedlawgroup.xyz
 dizigg.com
 djkux.com
 djpich.com
@@ -3887,12 +3914,14 @@ duetube.com
 duiter.com
 duscore.com
 dusyum.com
+duvips.com
 dvdoto.com
 dwakm.com
 dwriters.com
 dwseal.com
 dxirl.com
 dyleris.com
+dysonc.com
 e-mail.cafe
 eacademia.uk
 eagereverest.com
@@ -3959,6 +3988,7 @@ enveicer.com
 envoes.com
 eoopy.com
 eoutrbl.com
+epaynine.com
 epbfi.com
 episodekb.com
 eproudlyey.com
@@ -3998,6 +4028,7 @@ extemer.com
 extrset.com
 exweme.com
 ezgiant.com
+ezimb.com
 ezztt.com
 f5url.com
 fabricoak.com
@@ -4058,6 +4089,7 @@ firemail.com.br
 firmjam.com
 firste.ml
 firstmailler.com
+fisedo.com
 fishnone.com
 fitwl.com
 fitzola.com
@@ -4170,6 +4202,7 @@ getnada.com
 gettranslation.app
 gholar.com
 ghostmail.live
+gicont.com
 gienig.com
 gimpmail.com
 ginna.org
@@ -4188,6 +4221,9 @@ glowzymail.com
 glsupposek.com
 glumark.com
 gmaiilai.com
+gmaiilc.top
+gmaiillle.com
+gmail10p.com
 gmailaoi.com
 gmailenzo.com
 gmailmurad.com
@@ -4233,6 +4269,7 @@ gumica.cc
 gusronk.com
 gustr.com
 guysmail.com
+gwshare.com
 gyknife.com
 gyxmz.com
 gzeos.com
@@ -4273,6 +4310,7 @@ hexanchusmail.ru
 heybre.me
 hh7f.com
 hi2.in
+hidepost.net
 hidesmail.net
 hidingmail.com
 hidingmail.net
@@ -4302,6 +4340,7 @@ hosliy.com
 hostbyt.com
 hostelness.com
 hostlace.com
+hostme.my.id
 hostmint.icu
 hotkev.com
 hotmaiill.cloud
@@ -4363,6 +4402,7 @@ im5z.com
 imads.org
 imail.edu.pl
 imail.edu.vn
+imap.fr.nf
 imashr.com
 imfaya.com
 img-free.com
@@ -4467,6 +4507,7 @@ jmalaysiaqc.com
 jmpant.com
 jnggmysqll.com
 jobbrett.com
+jobraux.com
 jobsfeel.com
 jobzyy.com
 jocdk.com
@@ -4505,9 +4546,11 @@ kennyet.com
 kenyabudgetcamping.com
 kewip.com
 keyworddo.com
+kierko.com
 kihasl.com
 kimdyn.com
 kindomd.com
+kingcq.com
 kinws.com
 kiplipli.com
 kisoq.com
@@ -4518,6 +4561,7 @@ kjkpc.net
 kjkszpjcompany.com
 kkmail.be
 kkoup.com
+kkq.rehearsalk.com
 kksm.be
 kloudis.com
 klovenode.com
@@ -4571,6 +4615,7 @@ larland.com
 laserlip.com
 lassora.com
 laste.ml
+lasttea.com
 laupe.org
 lavep.org
 lavishmail.com
@@ -4613,6 +4658,7 @@ linxues.com
 lite14.us
 litemail.cf
 litepax.com
+lll.rehearsalk.com
 lmoir.com
 lnovic.com
 locawin.com
@@ -4636,6 +4682,7 @@ lovleo.com
 lqmvjt.shop
 lrmumbaiwz.com
 lubrorein.com
+luckfeed.com
 ludxc.com
 luhec.com
 luizuit.skin
@@ -4676,6 +4723,7 @@ mail4.uk
 mail8u.com
 mailallus.com
 mailba.uk
+maildepot.net
 maildrop.cc
 mailer.edu.pl
 mailer.io.vn
@@ -4683,6 +4731,7 @@ mailforspam.com
 mailgen.xyz
 mailgoo.net
 mailinator.com
+maillsk.com
 mailmagnet.co
 mailna.co
 mailna.in
@@ -4740,6 +4789,8 @@ mediaeast.uk
 mediaholy.com
 megamyx.win
 meidecn.com
+meikeya.com
+meingan.com
 mekuron.com
 melbourne.edu.pl
 meldram.com
@@ -4914,6 +4965,7 @@ niseko.be
 nivalust.com
 nmaller.com
 nmappingqk.com
+nnt.rehearsalk.com
 nobinbox.com
 noidem.com
 noisyence.com
@@ -4947,6 +4999,7 @@ nullsto.edu.pl
 numerobo.com
 nunexz.store
 nutrv.com
+nuvox.email
 nyasan.com
 nyavo.co
 nyawit.id
@@ -5016,6 +5069,7 @@ ortests.com
 oscarluna.site
 oscarluna.xyz
 osolo.xyz
+ospirun.com
 ospul.com
 ostahie.com
 osxofulk.com
@@ -5150,6 +5204,7 @@ productzf.com
 proexbol.com
 proglobiz.com
 promail.ink
+promcool.com
 prono1gmail.com
 proporud.com
 prorsd.com
@@ -5189,6 +5244,7 @@ qnorfolkx.com
 qpantam.fun
 qperformsrx.com
 qqpstudios.com
+qqq.xintaitong.com
 quamox.com
 quantumdreamer.xyz
 questtechsystems.com
@@ -5212,6 +5268,7 @@ randomail.io
 rantoro.com
 raotus.com
 rapidlyws.com
+rapplo.com
 rapt.be
 ratedane.com
 raxel.me
@@ -5229,6 +5286,7 @@ reduceness.com
 regapts.com
 regerina.com
 regishub.com
+rehearsalk.com
 reifide.com
 reisuke.com
 reliabt.com
@@ -5298,6 +5356,8 @@ sappisi.com
 sarmale.site
 sarnitwitrely.site
 sarvier.com
+sasmil.org
+sasonse.com
 satedly.com
 satering.com
 satigan.com
@@ -5314,9 +5374,11 @@ sch23.com
 schizololi.help
 schnellbote.org
 scorebog.com
+sealjump.com
 sealmaps.com
 searpen.com
 seatto.com
+secria.me
 sectorid.com
 seek4wap.com
 seemsence.com
@@ -5365,6 +5427,7 @@ silkbyte.net
 sillylf.com
 simaenaga.com
 simerm.com
+siponly.com
 sirprase.com
 sisood.com
 skalive.com
@@ -5415,6 +5478,7 @@ sorte2.com
 sortsml.com
 soscandia.org
 sotiella.com
+sousah.com
 southgators.com
 spam4.me
 spamok.com
@@ -5434,6 +5498,7 @@ sqyieldvd.com
 sskaid.com
 sso91.com
 sspnplus.com
+sss.rehearsalk.com
 stargiu.com
 starmail.net
 stateven.com
@@ -5446,8 +5511,10 @@ studyhub.edu.pl
 sturaman.com
 stuurmy.app
 stypedia.com
+suahi.com
 suarj.com
 subharaj.com
+sudaley.com
 sudern.de
 suggets.com
 sugtbt.com
@@ -5464,6 +5531,7 @@ sute.jp
 sutemeado.com
 svetims.com
 svk.jp
+svndemo.com
 swastickbookbox.com
 sweatpopi.com
 swftbars.com
@@ -5478,6 +5546,7 @@ syslinknet.com
 szotv.com
 tabletship.com
 tadipexs.com
+tainela.com
 taizinmuber.fun
 tajwork.com
 talmetry.com
@@ -5516,6 +5585,7 @@ temp.now
 tempblockchain.com
 tempemal.com
 tempinbox.xyz
+tempmail.ai
 tempmail.support
 tempmailfree.com
 tempmailn.com
@@ -5582,6 +5652,7 @@ tohru.org
 toiletkeys.net
 toizoas.fun
 tokyo.edu.pl
+tongtode.com
 tonne.to
 toolexs.com
 top1gmail.com
@@ -5687,6 +5758,7 @@ vhoutdoor.com
 via.tokyo.jp
 viasuma.com
 vibescapeo.study
+vicitro.com
 videnox.com
 viencel.com
 vigayu.com
@@ -5722,6 +5794,7 @@ voomsec.com
 vootin.com
 voricmail.com
 votooe.com
+vovantus.com
 vqsprint.com
 vracv.com
 vreaa.com
@@ -5757,6 +5830,7 @@ wataoke.com
 watefr.com
 waterisgone.com
 wavelix.com
+webkugel.com
 webonoid.com
 webscash.com
 webxio.pro
@@ -5781,6 +5855,7 @@ whitehousecalculator.com
 wholowpie.com
 whsbears.org
 whyknapp.com
+widenely.com
 wiemei.com
 wifame.com
 wikinoir.com
@@ -5801,6 +5876,8 @@ wnbaldwy.com
 workinar.com
 workpolo.com
 wowclassic.top
+wproll.com
+wqeather.com
 wrenden.com
 write7.com
 wshu.net
@@ -5830,11 +5907,13 @@ xex.xintaitong.com
 xfavaj.com
 xghff.com
 xgshare.com
+xhseeds.com
 xi.xintaitong.com
 xidprinting.com
 xinboxo.org.uk
 xinflow.me.uk
 xinkubu.com
+xintaitong.com
 xiterzinhos.cloud
 xitroo.com
 xklym.com
@@ -5856,22 +5935,28 @@ xsalkaz.online
 xsanzy.space
 xsecrt.com
 xsellsy.com
+xu.xintaitong.com
 xufcopied.com
 xuge.life
 xuneh.com
 xunleu.com
 xupiv.com
 xutin.org
+xxc.xintaitong.com
+xxt.xintaitong.com
 xxx.rehearsalk.com
 xydby.com
 xywdining.com
 yahoomail.pro
 yalcu.com
 yalhethun.com
+yameow.com
+yangca.us
 yanimateds.com
 yefx.info
 yehex.com
 yello.lat
+yemao.lat
 yeme.com
 yemenfo.com
 yerato.com
@@ -5893,6 +5978,7 @@ yuklogin.site
 yunhe.it.com
 yuvora.com
 yuy.xintaitong.com
+ywbin.com
 yzcalo.com
 zairlinex.com
 zaknama.com
@@ -5924,6 +6010,7 @@ zone10electric.com
 zpensi.com
 zplotsuu.com
 zslsz.com
+zt.rehearsalk.com
 ztrkxa.shop
 zudpck.com
 zufrans.com
@@ -5936,48 +6023,3 @@ zumaroll.com
 zvvzuv.com
 zypdi.com
 zzk.rehearsalk.com
-12icloud.com
-1bin.sbs
-acoxs.com
-ada.rehearsalk.com
-alazh.org
-azhsk.org
-bevriz.com
-boukshilf.com
-bpotogo.com
-buloan.com
-ce.xintaitong.com
-childrenth.com
-ddip88.com
-duvips.com
-dysonc.com
-epaynine.com
-ezimb.com
-fisedo.com
-gmaiilc.top
-gmaiillle.com
-gmail10p.com
-hidepost.net
-hostme.my.id
-imap.fr.nf
-lll.rehearsalk.com
-nnt.rehearsalk.com
-nuvox.email
-ospirun.com
-promcool.com
-qqq.xintaitong.com
-rehearsalk.com
-sasmil.org
-sasonse.com
-sealjump.com
-secria.me
-sousah.com
-sss.rehearsalk.com
-vovantus.com
-widenely.com
-wproll.com
-xintaitong.com
-xu.xintaitong.com
-yangca.us
-yemao.lat
-zt.rehearsalk.com
