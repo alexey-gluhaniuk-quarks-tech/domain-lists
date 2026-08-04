@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 6023
+# Total: 6035
 0-180.com
 0-30-24.com
 0-420.com
@@ -3328,6 +3328,7 @@ afpeterg.com
 afterdo.com
 aganseo.com
 agenra.com
+aghism.com
 agiuse.com
 agp.edu.pl
 agrolivana.com
@@ -3377,6 +3378,7 @@ ametitas.com
 amgens.com
 aminating.com
 amozix.com
+amupx.com
 amxyy.com
 anawebs.com
 ancewa.com
@@ -3410,6 +3412,7 @@ aplix.id
 apocaw.com
 apolymerfp.com
 appbott.com
+applamos.com
 apple.edu.pl
 appmail.uk
 appxapi.com
@@ -3461,6 +3464,7 @@ awnspeeds.com
 awsupplyk.com
 axcradio.com
 axnet.beauty
+ayable.com
 azhsk.org
 azinsu.site
 azucore.com
@@ -3497,6 +3501,7 @@ beavermail.org
 beefance.com
 beeinbox.edu.pl
 beepzx.shop
+bejum.com
 belettersmail.com
 belgianairways.com
 bellecour.it.com
@@ -3569,6 +3574,7 @@ bookspre.com
 boostcraft.shop
 bootsance.com
 bootsonboard.com
+bora4d.com
 boranora.com
 borealinbox.com
 boreorg.com
@@ -3739,6 +3745,7 @@ construalmail.ru
 contaco.org
 containzof.com
 cooljump.org
+copawoke.com
 corantct.com
 cosaxu.com
 coswz.com
@@ -3803,6 +3810,7 @@ datingel.com
 datingso.com
 datoinf.com
 daupload.com
+davopa.com
 daxiake.com
 daypey.com
 dayrep.com
@@ -4540,6 +4548,7 @@ karatic.com
 kaudat.com
 kbox.li
 keevle.com
+kehine.com
 kelenson.com
 kemail.uk
 kennyet.com
@@ -5374,6 +5383,7 @@ sch23.com
 schizololi.help
 schnellbote.org
 scorebog.com
+sds.rehearsalk.com
 sealjump.com
 sealmaps.com
 searpen.com
@@ -5546,6 +5556,7 @@ syslinknet.com
 szotv.com
 tabletship.com
 tadipexs.com
+tai.xintaitong.com
 tainela.com
 taizinmuber.fun
 tajwork.com
@@ -6004,6 +6015,7 @@ zipcatfish.com
 ziragold.com
 zitadan.com
 zizvy.com
+zjeb.us
 zlcolors.com
 zlorkun.com
 zone10electric.com
