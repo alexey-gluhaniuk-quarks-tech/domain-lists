@@ -1,5 +1,5 @@
 # Whitelist — legitimate email domains
-# Total: 161
+# Total: 169
 126.com
 163.com
 aol.co.uk
@@ -8,6 +8,7 @@ aol.fr
 aon.at
 arcor.de
 att.net
+autograf.pl
 azet.sk
 bbox.fr
 bezeqint.net
@@ -20,6 +21,7 @@ btinternet.com
 cantv.net
 centrum.cz
 centrum.sk
+cheerful.com
 clases.edu.sv
 club-internet.fr
 colegioarroyohondosd.com
@@ -44,6 +46,7 @@ gmx.fr
 gmx.net
 googlemail.com
 hotmail.ca
+hotmail.cl
 hotmail.co.uk
 hotmail.com
 hotmail.com.ar
@@ -68,6 +71,7 @@ laposte.net
 libero.it
 list.ru
 live.be
+live.ca
 live.co.uk
 live.com
 live.com.au
@@ -76,6 +80,7 @@ live.de
 live.fr
 live.nl
 live.no
+mail.co.uk
 mail.com
 mail.de
 mail.ee
@@ -89,6 +94,7 @@ naver.com
 neuf.fr
 o2.pl
 onet.com.pl
+onet.eu
 onet.pl
 op.pl
 orange.fr
@@ -139,6 +145,8 @@ unsa.edu.pe
 uol.com.br
 verizon.net
 videotron.ca
+vip.onet.pl
+vp.pl
 walla.co.il
 walla.com
 wanadoo.fr
