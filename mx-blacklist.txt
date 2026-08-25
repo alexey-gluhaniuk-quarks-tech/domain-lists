@@ -1,2 +1,4 @@
 exact:mail.wabblywabble.com
 exact:mail.wallywatts.com
+exact:fr.priyohost.net
+numeric_template:prd-smtp.#minutemail.com
