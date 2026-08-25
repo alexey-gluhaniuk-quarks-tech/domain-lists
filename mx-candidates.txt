@@ -32,12 +32,10 @@ exact:mx.tmail.delivery
 numeric_template:mx#.darkvilto.biz
 numeric_template:mx#.m#bp.com
 numeric_template:mx#.mb#p.com
-numeric_template:prd-smtp.#minutemail.com
 exact:smtp.mmosolution.org
 numeric_template:aero#.burnserver.com
 numeric_template:dca#.patternemail.com
 numeric_template:dcb#.patternemail.com
-exact:fr.priyohost.net
 exact:mail.deepmails.org
 exact:mail.volkai.cloud
 numeric_template:mx#.arrivalserver.com
