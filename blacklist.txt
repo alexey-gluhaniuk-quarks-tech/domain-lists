@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 6093
+# Total: 6143
 0-180.com
 0-30-24.com
 0-420.com
@@ -3283,9 +3283,11 @@
 87708b.com
 8k.edu.jenile.biz.id
 8w3q0zls.mailosaur.net
+94an.com
 990ys.com
 a17z.it.com
 a826z.com
+aaaz.xintaitong.com
 aabkmail.com
 aaorsi.com
 aazhs.com
@@ -3341,6 +3343,7 @@ aicogz.com
 aikunkun.com
 aimserv.com
 aiphotoenhancer.me
+airhemp.com
 airmail.cc
 airsworld.net
 aiwanlab.com
@@ -3467,6 +3470,7 @@ awsupplyk.com
 axcradio.com
 axnet.beauty
 ayable.com
+azhacd.org
 azhsk.org
 azinsu.site
 azucore.com
@@ -3585,6 +3589,7 @@ borealinbox.com
 boreorg.com
 boringity.com
 boukshilf.com
+bowlfuel.com
 boxfi.uk
 boxlive247.com
 boxmach.com
@@ -3761,6 +3766,7 @@ cotigz.com
 coursora.com
 cpav3.com
 crankymonkey.info
+creadese.com
 cream.pink
 crepeau12.com
 cringemonster.com
@@ -3805,6 +3811,7 @@ dacgu.com
 dailynewses.com
 dakaka.org
 daluzhi.com
+damphen.org
 dancejwh.com
 daouse.com
 daponds.com
@@ -3822,6 +3829,7 @@ daxiake.com
 daypey.com
 dayrep.com
 dcobe.com
+dd2car.com
 ddd.lingeringp.com
 ddip88.com
 ddwfzp.com
@@ -3898,6 +3906,7 @@ domainstream.org
 domioni.pro
 doncong.com
 donumart.com
+dopiset.com
 doreact.com
 dorede.com
 dosbee.com
@@ -3946,6 +3955,7 @@ earthxqe.com
 easipro.com
 easymailer.live
 eay.jp
+ebflyai.com
 ebuthor.com
 ecenomecs.com
 echomails.net
@@ -4016,6 +4026,7 @@ ereirqu.com
 ereivce.com
 ereplyzy.com
 eripo.net
+erscovdi.com
 esadverse.com
 eshimod.com
 esterace.com
@@ -4062,6 +4073,7 @@ fanicle.com
 fanlvr.com
 fantastu.com
 fanwn.com
+fanzher.com
 farebus.com
 fashlend.com
 fastmail.us
@@ -4319,12 +4331,14 @@ hazhab.com
 hbviralbv.com
 hdg.homes
 heavty.com
+hebase.com
 hebeer.com
 hedotu.com
 hegamespotr.com
 heisawofa.com
 heisei.be
 hels.mobi
+heriy.com
 herojp.com
 hetzez.com
 heweek.com
@@ -4514,6 +4528,7 @@ jawline.site
 jazipo.com
 jbsze.com
 jbsze.ne
+jbsze.net
 jctoto.com
 jdefiningqt.com
 jeanssi.com
@@ -4568,6 +4583,7 @@ kavio.org
 kbox.li
 keevle.com
 kehine.com
+keina.asia
 kelenson.com
 kemail.uk
 kennyet.com
@@ -4576,6 +4592,7 @@ kewip.com
 keyworddo.com
 kierko.com
 kihasl.com
+kikaga.com
 kimdyn.com
 kindomd.com
 kingcq.com
@@ -4772,6 +4789,7 @@ mailnesia.com
 mailo.edu.pl
 mailo.icu
 mailontod.com
+mailp.site
 mailpwr.com
 mailsac.com
 mailshan.com
@@ -4787,8 +4805,10 @@ mamabood.com
 mamaliga.cfd
 manglgih.com
 manupay.com
+manyima.com
 maomi.biz
 maonyn.com
+mapsguy.com
 marchub.com
 mardiek.com
 marikuza.com
@@ -4821,6 +4841,7 @@ meantinc.com
 medevsa.com
 mediaeast.uk
 mediaholy.com
+mediseat.com
 megamyx.win
 meidecn.com
 meikeya.com
@@ -4927,6 +4948,7 @@ mxcdd.com
 mxqmail.com
 mycreativeinbox.com
 myinfoinc.com
+mylossless.com
 mymaily.lol
 mymizniqin.space
 mypucm.com
@@ -4945,6 +4967,7 @@ nalwan.com
 namestal.com
 nanana.uk
 nanatha.academy
+nantmeur.com
 naobk.com
 naqulu.com
 narrowment.com
@@ -4973,6 +4996,7 @@ nekosan.uk
 nembors.com
 nemomo.org
 neonhan.org
+neowd.com
 neplis.com
 nepro.lat
 nesopf.com
@@ -5046,6 +5070,7 @@ nyavo.co
 nyawit.id
 nycemore.com
 nyfhk.com
+nyrep.lat
 nyspring.com
 nzxcizx.shop
 nzzqmnetls.shop
@@ -5231,6 +5256,7 @@ powmatic.com
 powpearl.com
 pprizesmnb.com
 prafessur.com
+prairieconnectco.com
 prdalu.com
 prehers.com
 prems.id
@@ -5240,6 +5266,7 @@ pricegh.com
 primetor.com
 prin.be
 princessge.com
+prisonity.com
 priyomail.in
 priyomail.net
 priyp.com
@@ -5253,6 +5280,7 @@ promail.ink
 promcool.com
 prono1gmail.com
 proporud.com
+prorises.com
 prorsd.com
 protectsmail.net
 provko.com
@@ -5312,6 +5340,7 @@ raknife.com
 ramenmail.de
 ramynd.com
 randomail.io
+ranro.lat
 rantoro.com
 raotus.com
 rapidlyws.com
@@ -5360,6 +5389,7 @@ rjsou.com
 rkytuhoney.com
 roastic.com
 roborena.com
+robustq.com
 rockdian.com
 roco.lol
 rograc.com
@@ -5402,6 +5432,7 @@ sam3d.dev
 sanderd.website
 sanpietroapostoloceccano.com
 santaks.com
+sapnadna.space
 sapphiremegacart.com
 sappisi.com
 sarmale.site
@@ -5426,6 +5457,7 @@ schizololi.help
 schnellbote.org
 scorebog.com
 sds.rehearsalk.com
+seakol.com
 sealjump.com
 sealmaps.com
 searpen.com
@@ -5496,6 +5528,8 @@ skygazerhub.com
 skypandarian.it.com
 skyprofy.com
 slanct.com
+slotbeer.com
+slotsave.com
 slowimo.com
 sma.balajar.id
 smail.pw
@@ -5512,6 +5546,7 @@ soco7.com
 sofaion.com
 sofarb.com
 sofia.re
+sokmail.com
 sokmany.com
 solarnyx.com
 solarunited.net
@@ -5628,8 +5663,10 @@ teacher.semar.edu.pl
 teachingdwt.com
 teartain.com
 tebyy.com
+techdan.site
 techoth.com
 techusa.org
+tecorix.com
 tehtrip.com
 teihu.com
 telegmail.com
@@ -5649,6 +5686,7 @@ tempmail.ai
 tempmail.support
 tempmailfree.com
 tempmailn.com
+tempmailninja.com
 tempmailt.com
 tempr.email
 temptami.com
@@ -5676,6 +5714,7 @@ thefluent.org
 theirer.com
 theking.id
 themesw.com
+thenness.com
 thetechnext.net
 thewite.com
 thiefness.com
@@ -5684,6 +5723,7 @@ thirifara.com
 threepp.com
 tianhuo.org
 tidissajiiu.com
+tiesure.com
 tiffincrane.com
 tijux.com
 tiksofi.uk
@@ -5750,10 +5790,12 @@ turkeyth.com
 tutamail.com
 tutanota.de
 tutuapp.bid
+tuvsec.com
 tvp8.com
 tvtmall.com
 tyincoming.com
 tymizuod.fun
+u5.prominentghost.com
 ubinert.com
 udlicenses.com
 uforks.com
@@ -5787,6 +5829,7 @@ usoplay.com
 ussostunt.com
 uswaid.com
 usxxoo.com
+utiluan.com
 utwoko.com
 uvasx.com
 uxami.com
@@ -5809,6 +5852,7 @@ vatvc.com
 vaupk.org
 vavaxa.com
 vayonix.com
+vaztor.com
 vcheaperp.com
 vcpscholar.org
 vectic.lol
@@ -5850,6 +5894,7 @@ vmoscowmpp.com
 vncctv.org
 vndem.com
 vnvmail.com
+voewo.com
 volbalt.com
 voledia.com
 volku.org
@@ -5912,6 +5957,7 @@ wemail.pics
 wenkuu.com
 wernerio.com
 werucbai.com
+wetfan.com
 wetsage.com
 wfaqs.com
 wgiguestsl.com
@@ -5939,6 +5985,7 @@ wktoyotaf.com
 wlsom.com
 wmila.com
 wnbaldwy.com
+woraco.com
 workinar.com
 workpolo.com
 wowclassic.top
@@ -5948,6 +5995,7 @@ wrenden.com
 write7.com
 wshu.net
 wudmis.com
+wuoting.com
 wuuvo.com
 wwgoc.com
 wyoxafp.com
@@ -6076,6 +6124,7 @@ zjeb.us
 zlcolors.com
 zlorkun.com
 zmailman.com
+zockshop.com
 zone10electric.com
 zpensi.com
 zplotsuu.com
@@ -6091,5 +6140,6 @@ zuilc.com
 zuile8.com
 zumaroll.com
 zvvzuv.com
+zylero.com
 zypdi.com
 zzk.rehearsalk.com
