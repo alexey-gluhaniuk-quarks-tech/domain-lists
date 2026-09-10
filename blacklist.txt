@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 6143
+# Total: 6144
 0-180.com
 0-30-24.com
 0-420.com
@@ -4679,6 +4679,7 @@ leaderssk.com
 learntojugg.com
 leaucoproductions.com
 legadmin.org
+lemauffsa.com
 leoncegbedje.com
 lerfuwond.com
 lesotica.com
