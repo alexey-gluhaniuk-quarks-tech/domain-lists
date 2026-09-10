@@ -1,7 +1,8 @@
 # Whitelist — legitimate email domains
-# Total: 169
+# Total: 175
 126.com
 163.com
+amorki.pl
 aol.co.uk
 aol.com
 aol.fr
@@ -44,6 +45,7 @@ gmx.com
 gmx.de
 gmx.fr
 gmx.net
+go2.pl
 googlemail.com
 hotmail.ca
 hotmail.cl
@@ -74,18 +76,21 @@ live.be
 live.ca
 live.co.uk
 live.com
+live.com.ar
 live.com.au
 live.com.mx
 live.de
 live.fr
 live.nl
 live.no
+live.se
 mail.co.uk
 mail.com
 mail.de
 mail.ee
 mail.ru
 me.com
+mein.gmx
 meta.ua
 msn.com
 mweb.co.za
@@ -105,6 +110,7 @@ outlook.cz
 outlook.de
 outlook.es
 outlook.fr
+outlook.ie
 outlook.pt
 pm.me
 poczta.fm
