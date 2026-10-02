@@ -2,3 +2,9 @@ exact:mail.wabblywabble.com
 exact:mail.wallywatts.com
 exact:fr.priyohost.net
 numeric_template:prd-smtp.#minutemail.com
+exact:mx.26ai.art
+exact:mx.auroracovia.com
+exact:mx.guidemaxima.com
+exact:mx.imagesthere.com
+exact:mx.inovel26.com
+exact:mx.prominentghost.com
