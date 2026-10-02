@@ -1,5 +1,5 @@
 # Whitelist — legitimate email domains
-# Total: 175
+# Total: 183
 126.com
 163.com
 amorki.pl
@@ -48,6 +48,7 @@ gmx.net
 go2.pl
 googlemail.com
 hotmail.ca
+hotmail.ch
 hotmail.cl
 hotmail.co.uk
 hotmail.com
@@ -102,6 +103,7 @@ onet.com.pl
 onet.eu
 onet.pl
 op.pl
+opoczta.pl
 orange.fr
 outlook.be
 outlook.com
@@ -151,6 +153,7 @@ unsa.edu.pe
 uol.com.br
 verizon.net
 videotron.ca
+vip.interia.pl
 vip.onet.pl
 vp.pl
 walla.co.il
@@ -161,17 +164,22 @@ webmail.co.za
 wp.pl
 ya.ru
 yahoo.ca
+yahoo.cl
 yahoo.co.uk
 yahoo.com
 yahoo.com.ar
 yahoo.com.au
 yahoo.com.br
 yahoo.com.mx
+yahoo.com.sg
 yahoo.de
 yahoo.es
 yahoo.fr
 yahoo.ie
 yahoo.in
 yahoo.it
+yahoo.pl
+yahoo.ro
 yandex.com
 yandex.ru
+ymail.com
