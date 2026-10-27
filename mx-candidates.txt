@@ -44,3 +44,4 @@ numeric_template:sg#.priyomail.net
 numeric_template:srv#.arrivalserver.net
 exact:volkai.cloud
 exact:email.gravityengine.cc
+exact:mx.barconic.org
