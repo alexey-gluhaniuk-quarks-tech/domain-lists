@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 6230
+# Total: 6271
 0-180.com
 0-30-24.com
 0-420.com
@@ -2475,6 +2475,7 @@
 2ether.net
 2ewldu.us
 2eze.xyz
+2f.pointnexus.org
 2f1fv16ljgb88nj.xyz
 2f5b8c.xyz
 2fat4me.com
@@ -3175,6 +3176,7 @@
 37art.com
 37ddpe.us
 37dnah.us
+37xiao.com
 380064.com
 3804445.com
 380c.biz
@@ -3277,15 +3279,19 @@
 4heats.com
 4n.auroracovia.com
 4nly.com
+4t.paxeluni.com
 5fivem.shop
 5k2u.com
 5nek.com
+62.xzcoot.com
 64ge.com
 66.26ai.art
 668mail.com
 681mail.com
+6a.pointnexus.org
 6bi.inovel26.com
 6l.imagesthere.com
+6sh.nexushint.com
 6si.imagesthere.com
 7tul.com
 7zl.imagesthere.com
@@ -3300,6 +3306,7 @@ a17z.it.com
 a826z.com
 aaaz.xintaitong.com
 aabkmail.com
+aahzz.com
 aaorsi.com
 aazhs.com
 abaot.com
@@ -3340,6 +3347,7 @@ affgame.com
 afia.pro
 afpeterg.com
 afterdo.com
+agaexpress.com
 aganseo.com
 agenra.com
 aghism.com
@@ -3659,6 +3667,7 @@ cadebek.com
 cadinr.com
 calienterichmond.com
 california.edu.pl
+calirona.com
 calmpros.com
 calorpg.com
 cambodiaindex.com
@@ -3667,6 +3676,7 @@ cameraity.com
 campatar.com
 camplvad.com
 camrew.com
+candaba.com
 candlesjr.com
 candylicioustreats.com
 cantozil.com
@@ -3728,6 +3738,7 @@ cindalle.co
 cinqy.space
 citayam.com
 citdaca.com
+cjh.kashre.com
 ckentuckyq.com
 ckkdetails.com
 ckptr.com
@@ -3772,6 +3783,7 @@ compressjpg.io
 compservmail.com
 compung.com
 comsb.com
+comzx.com
 connectcrossword.com
 construalmail.ru
 contaco.org
@@ -3811,6 +3823,7 @@ curuth.com
 custemail.xyz
 cutefier.com
 cuvox.de
+cv.kashre.com
 cvdblbesji.shop
 cvkmonaco.com
 cwmxc.com
@@ -3908,6 +3921,7 @@ diurstb.com
 divahd.com
 diversifiedlawgroup.xyz
 dizigg.com
+dj.xzcoot.com
 djkux.com
 djpich.com
 dkstzl.shop
@@ -4253,6 +4267,7 @@ gardsiir.com
 gavrom.com
 gbubrook.com
 gcervera.com
+gd.kashre.com
 gdatingq.com
 gdienter.com
 gdqyuztolu.shop
@@ -4305,6 +4320,7 @@ gocasin.com
 gocoiny.com
 goflipa.com
 gofunid.icu
+goldvester.com
 gongjua.com
 gonrr.net
 googxs.com
@@ -4316,6 +4332,7 @@ gosstell.com
 gotemv.com
 gotgel.org
 gpipes.com
+gq.nexushint.com
 grassdev.com
 greatbin.xyz
 grebh.com
@@ -4374,6 +4391,7 @@ hegamespotr.com
 heisawofa.com
 heisei.be
 hels.mobi
+herclan.com
 heriy.com
 herojp.com
 hetzez.com
@@ -4408,6 +4426,7 @@ honeypie.store
 honeys.be
 hoodstepha222.buzz
 hook2ad.com
+hopefunder.com
 hoplise.com
 horizonspost.com
 hormails.com
@@ -4455,6 +4474,7 @@ ichairscn.com
 ichigo.me
 icloneu.xyz
 icmans.com
+iconcubic.com
 iconpo.com
 icotz.com
 icousd.com
@@ -4517,6 +4537,7 @@ instantletter.net
 instmail.uk
 instrete.com
 intady.com
+intrancu.com
 introace.com
 inupup.com
 inveitro.com
@@ -4552,6 +4573,7 @@ itwbuy.com
 iubridge.com
 iucake.com
 ivzapp.com
+iw.pointnexus.org
 iwatermail.com
 iwristlu.com
 iwtclocks.com
@@ -4603,6 +4625,7 @@ jourrapide.com
 joystill.com
 jparksky.com
 jpoundoeoi.com
+jrj.nexushint.com
 jsncos.com
 jthoven.com
 juaxe.com
@@ -4691,6 +4714,7 @@ kynninc.com
 kysjbjpcdl.sbs
 kytstore.com
 kzccv.com
+l.paxeluni.com
 labebx.com
 laboraryer.com
 lahoku.com
@@ -4722,6 +4746,7 @@ leacore.com
 leaderssk.com
 learntojugg.com
 leaucoproductions.com
+leaveness.com
 legadmin.org
 lemauffsa.com
 leoncegbedje.com
@@ -4792,6 +4817,7 @@ luxudata.com
 luxzn.com
 lvhgzugjjm.shop
 lxheir.com
+lyabobpr.com
 lybyz.com
 lycos.co.kr
 lyft.live
@@ -4892,6 +4918,7 @@ megamyx.win
 meidecn.com
 meikeya.com
 meingan.com
+meinvr.com
 mekuron.com
 melbourne.edu.pl
 meldram.com
@@ -4909,6 +4936,7 @@ meshelp.com
 metaldel.com
 mevori.com
 mewnwh.cc
+mf.pointnexus.org
 mfxis.com
 mggovernor.com
 micorna.biz
@@ -4942,6 +4970,7 @@ mmosolution.org
 moakt.cc
 moakt.co
 mobilesm.com
+moblha.com
 modirosa.com
 mofu.be
 mogash.com
@@ -4961,6 +4990,7 @@ moonfee.com
 moonjadepost.in.net
 moosbay.com
 moranfx.com
+moravita.com
 morgan-mcneal.com
 morrobel.com
 motivue.com
@@ -5110,6 +5140,7 @@ npo2.com
 nqmo.com
 nriza.com
 nrlord.com
+ns.xzcoot.com
 nubotel.com
 nubyc.com
 nucleant.org
@@ -5277,6 +5308,7 @@ pizuhdev.work
 plancetose.com
 plano-mail.net
 playboot.com
+playfine.com
 plerexors.com
 plodexe.com
 ploveqmail.com
@@ -5468,6 +5500,7 @@ rplus.lat
 rproductle.com
 rrc.rehearsalk.com
 rs.rehearsalk.com
+rs.xzcoot.com
 rspue.com
 rubeshi.com
 rudox.org
@@ -5489,6 +5522,8 @@ rvseice.com
 rykone.com
 ryvelide.com
 ryzid.com
+s3.kashre.com
+s6.paxeluni.com
 saeoil.com
 sagesole.com
 salack.com
@@ -5561,11 +5596,13 @@ shapedcv.com
 sharebot.net
 sharklasers.com
 shawarib.com
+shide.lat
 shieldedpost.net
 shopdevo.com
 shoppung.com
 shopxda.com
 shortapk.com
+shouong.com
 shouxs.com
 shuelder.com
 shuyun.org
@@ -5581,6 +5618,7 @@ simerm.com
 siponly.com
 sirprase.com
 sisood.com
+sixdi.lat
 sj.guidemaxima.com
 skalive.com
 skateru.com
@@ -5642,6 +5680,7 @@ southgators.com
 spam4.me
 spamok.com
 sparkroi.com
+speakerion.com
 speedfex.com
 spicysoda.com
 spinly.net
@@ -5810,6 +5849,7 @@ tivogo.com
 tkhplanesw.com
 tlhao86.com
 tlwpleasure.com
+tm.paxeluni.com
 tmail.edu.rs
 tmail.ws
 tmailbox.site
@@ -5910,6 +5950,7 @@ uvasx.com
 uxami.com
 uxmil.com
 uxsolar.com
+uy.paxeluni.com
 uzicani.com
 v1zw.com
 v2ssr.com
