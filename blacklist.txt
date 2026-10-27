@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 6281
+# Total: 6293
 0-180.com
 0-30-24.com
 0-420.com
@@ -3287,6 +3287,7 @@
 5fivem.shop
 5k2u.com
 5nek.com
+61.barconic.org
 62.xzcoot.com
 64ge.com
 66.26ai.art
@@ -3497,6 +3498,7 @@ axcradio.com
 axnet.beauty
 ayable.com
 azhacd.org
+azhpoly.org
 azhsk.org
 azinsu.site
 azucore.com
@@ -3743,6 +3745,7 @@ cindalle.co
 cinqy.space
 citayam.com
 citdaca.com
+citytar.com
 cjh.kashre.com
 ckentuckyq.com
 ckkdetails.com
@@ -4138,6 +4141,7 @@ feelingity.com
 feerock.com
 femailtor.com
 fenexy.com
+fenfax.com
 fengnu.com
 fentaoba.com
 fenwazi.com
@@ -4418,6 +4422,7 @@ hihi.lol
 hikie.pro
 hikuhu.com
 hilostar.com
+him.se
 hiredify.com
 hirevia.cfd
 hisrher.com
@@ -4603,6 +4608,7 @@ jbsze.net
 jctoto.com
 jdefiningqt.com
 jeanssi.com
+jeklen.store
 jenyfenbox.online
 jessicaell4.buzz
 ji5.de
@@ -4979,6 +4985,7 @@ moakt.cc
 moakt.co
 mobilesm.com
 moblha.com
+modijix.com
 modirosa.com
 mofu.be
 mogash.com
@@ -5330,6 +5337,7 @@ poenir.com
 poesd.com
 pofmagic.co
 pofmagic.com
+pointsta.com
 poisonword.com
 pokeline.com
 pokemail.net
@@ -5446,6 +5454,7 @@ raotus.com
 rapidlyws.com
 rapplo.com
 rapt.be
+rastern.com
 ratedane.com
 raxel.me
 raxio.app
@@ -5574,6 +5583,7 @@ secria.me
 sectorid.com
 seek4wap.com
 seemsence.com
+sefin.lat
 seggost.com
 segichen.com
 sejkt.com
@@ -5816,6 +5826,7 @@ tempyx.com
 temzo.tech
 tensi.org
 tenvil.com
+teoia.lat
 terkoer.com
 terrapulse.site
 terrenix.com
@@ -6061,6 +6072,7 @@ wagwit.com
 waifu.club
 walrage.com
 wanko.be
+wannalaw.com
 waotao.com
 wapgad.com
 warmence.com
