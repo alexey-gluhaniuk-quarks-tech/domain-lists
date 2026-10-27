@@ -8,3 +8,8 @@ exact:mx.guidemaxima.com
 exact:mx.imagesthere.com
 exact:mx.inovel26.com
 exact:mx.prominentghost.com
+exact:mx.kashre.com
+exact:mx.nexushint.com
+exact:mx.paxeluni.com
+exact:mx.pointnexus.org
+exact:mx.xzcoot.com
