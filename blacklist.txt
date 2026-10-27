@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 6271
+# Total: 6281
 0-180.com
 0-30-24.com
 0-420.com
@@ -311,6 +311,7 @@
 06rexell.website
 07-izvestiya.ru
 07-vesti.ru
+07.guidemaxima.com
 0704445.com
 0713wang.com
 07157.com
@@ -571,6 +572,7 @@
 0uxpgdvol9n.gq
 0uxpgdvol9n.ml
 0uxpgdvol9n.tk
+0w.auroracovia.com
 0wenku.com
 0wmfq2.us
 0wnd.net
@@ -609,6 +611,7 @@
 0zc7eznv3rsiswlohu.cf
 0zc7eznv3rsiswlohu.ml
 0zc7eznv3rsiswlohu.tk
+0zf.auroracovia.com
 0zspgifzbo.cf
 0zspgifzbo.ga
 0zspgifzbo.gq
@@ -2138,6 +2141,7 @@
 23pxdb.us
 23swap.site
 24-ex.ru
+24.imagesthere.com
 240305.com
 24030917.xyz
 2404445.com
@@ -3638,6 +3642,7 @@ brixozu.com
 bronchusmail.ru
 brupe.lat
 brwadvertising.com
+bs.prominentghost.com
 bscse.okcx.edu.rs
 bseee.okcx.edu.rs
 btcours.com
@@ -3826,6 +3831,7 @@ cuvox.de
 cv.kashre.com
 cvdblbesji.shop
 cvkmonaco.com
+cw.imagesthere.com
 cwmxc.com
 cwroutinesp.com
 cwtaa.com
@@ -4623,6 +4629,7 @@ jomspar.com
 jontra.com
 jourrapide.com
 joystill.com
+jp.guidemaxima.com
 jparksky.com
 jpoundoeoi.com
 jrj.nexushint.com
@@ -4825,6 +4832,7 @@ lyricslrc.com
 lyricspad.net
 lyzla.com
 m3player.com
+m9.auroracovia.com
 m993.com.im
 m993.in.net
 maazios.com
@@ -5470,6 +5478,7 @@ retreze.com
 retron.cyou
 revolutionz.top
 revutap.com
+rh.guidemaxima.com
 rhyta.com
 ridteam.com
 rikako.asia
@@ -5586,6 +5595,7 @@ sexgmail.com
 sexintens.cam
 sexmafia.online
 sexshop.baby
+sf.guidemaxima.com
 sferelle.com
 sfolkar.com
 sfpixel.com
