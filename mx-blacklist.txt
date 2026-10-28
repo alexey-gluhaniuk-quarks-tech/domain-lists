@@ -13,3 +13,4 @@ exact:mx.nexushint.com
 exact:mx.paxeluni.com
 exact:mx.pointnexus.org
 exact:mx.xzcoot.com
+exact:mx.lucktaro.com
