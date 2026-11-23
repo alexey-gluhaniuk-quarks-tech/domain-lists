@@ -1,7 +1,9 @@
 # Whitelist — legitimate email domains
-# Total: 183
+# Total: 196
 126.com
 163.com
+alumni.unav.es
+alumnos.corpotal.cl
 amorki.pl
 aol.co.uk
 aol.com
@@ -20,6 +22,7 @@ bluewin.ch
 bol.com.br
 btinternet.com
 cantv.net
+caramail.com
 centrum.cz
 centrum.sk
 cheerful.com
@@ -27,12 +30,14 @@ clases.edu.sv
 club-internet.fr
 colegioarroyohondosd.com
 comcast.net
+ddkit.dev
 duck.com
 duocuc.cl
 email.com
 email.ua
 eviapp.local
 fibertel.com.ar
+fn.de
 free.fr
 freemail.hu
 freenet.de
@@ -63,6 +68,7 @@ icloud.com
 inbox.com
 inbox.lv
 inbox.ru
+int.pl
 interia.eu
 interia.pl
 internet.ru
@@ -110,10 +116,12 @@ outlook.com
 outlook.com.au
 outlook.cz
 outlook.de
+outlook.dk
 outlook.es
 outlook.fr
 outlook.ie
 outlook.pt
+pisz.to
 pm.me
 poczta.fm
 poczta.onet.eu
@@ -146,15 +154,20 @@ terra.com.br
 tfbnw.net
 tlen.pl
 ua.fm
+uab.cat
+uchile.cl
 ucvvirtual.edu.pe
 ukr.net
+ulaval.ca
 unifebe.edu.br
 unsa.edu.pe
 uol.com.br
+usach.cl
 verizon.net
 videotron.ca
 vip.interia.pl
 vip.onet.pl
+virginiogomez.cl
 vp.pl
 walla.co.il
 walla.com

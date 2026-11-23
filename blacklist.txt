@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 6336
+# Total: 6386
 0-180.com
 0-30-24.com
 0-420.com
@@ -395,6 +395,7 @@
 09e14e.club
 09rexell.website
 09stees.online
+0a3.arcadehearth.com
 0a7fk6.info
 0adzp1.us
 0ak.org
@@ -3147,6 +3148,7 @@
 3657she.com
 365890.com
 365generators.com
+365gmail.com
 365scotland.com
 365tickets.global
 365ue.space
@@ -3262,6 +3264,7 @@
 39koyr.us
 39p.ru
 39pop.com
+39s.arcadehearth.com
 39shipin.xyz
 3a-trust.ru
 3abenv.us
@@ -3306,6 +3309,7 @@
 6si.imagesthere.com
 77.paxeluni.com
 7tul.com
+7x.oceanicwavel.com
 7zl.imagesthere.com
 87708b.com
 8b.nexushint.com
@@ -3317,6 +3321,7 @@
 9k.26ai.art
 9r.paxeluni.com
 a17z.it.com
+a747.shop
 a826z.com
 aaaz.xintaitong.com
 aabkmail.com
@@ -3355,6 +3360,7 @@ adosnan.com
 adrewire.com
 adsensekorea.com
 adsprite.com
+adveuble.com
 adviseity.com
 advitize.com
 affgame.com
@@ -3364,6 +3370,7 @@ afronewz.com
 afterdo.com
 agaexpress.com
 aganseo.com
+agatha.lat
 agenra.com
 aghism.com
 agiuse.com
@@ -3392,6 +3399,7 @@ akunkuat.com
 aladeen.org
 alazh.org
 alazhi.org
+alazsec.org
 albarulo.com
 alexida.com
 alf5.com
@@ -3404,6 +3412,7 @@ alisree.com
 alk.rehearsalk.com
 allfreemail.net
 allwebemails.com
+almatips.com
 almaxen.com
 alonecmw.com
 alpegui.com
@@ -3466,6 +3475,7 @@ aqweeks.com
 aramask.com
 aratrin.com
 aravites.com
+arcadehearth.com
 archifun.com
 arcleti.com
 aregods.com
@@ -3655,6 +3665,7 @@ brasiliacadeia.shop
 brayy.com
 breaite.com
 breazeim.com
+brest.lat
 brinkc.com
 brittneyda123.buzz
 brixozu.com
@@ -3729,6 +3740,7 @@ ccmail.uk
 cctoolz.com
 cctyoo.com
 ce.xintaitong.com
+cecolbus.us
 cegil.id
 celestialcrane.it.com
 centreszv.com
@@ -3756,6 +3768,7 @@ chodyi.com
 chosenx.com
 chotunai.com
 chrfeeul.com
+chuars.com
 chuve.lat
 chysir.com
 cigidea.com
@@ -3771,6 +3784,7 @@ ckptr.com
 ckuer.com
 claspira.com
 clayeastx.com
+clixer.lat
 clockance.com
 clockth.com
 cloud-temp.com
@@ -3802,7 +3816,10 @@ cogil.id
 cohdi.com
 colescho.us
 colimarl.com
+colmbus.us
 coloruz.com
+colscedu.us
+columed.us
 comfythings.com
 competition.tel
 compressjpg.io
@@ -3966,6 +3983,7 @@ doglover.com
 doishy.com
 dollicons.com
 dollstore.org
+dom88.lat
 domainstream.org
 domioni.pro
 doncong.com
@@ -4011,6 +4029,7 @@ dusyum.com
 duvips.com
 dvdee.com
 dvdoto.com
+dw.majema.org
 dwakm.com
 dwriters.com
 dwseal.com
@@ -4030,6 +4049,7 @@ ebflyai.com
 ebuthor.com
 ecenomecs.com
 echomails.net
+echoplanck.com
 echtmail.net
 eclcyre.com
 edectus.com
@@ -4037,6 +4057,7 @@ edfdiaryf.com
 edinel.com
 edmondventures.com
 edny.net
+educomb.us
 eduhed.com
 edulena.com
 edumail.edu.rs
@@ -4237,6 +4258,7 @@ fordemy.com
 forexnews.bg
 forexru.com
 forexzig.com
+forims.com
 forliion.com
 formadcol.com
 formsphk.com
@@ -4377,6 +4399,7 @@ griyadigital.com
 groklan.com
 gronasu.com
 grr.la
+gruas.lat
 gs.paxeluni.com
 gsheetpaj.com
 gta5hx.com
@@ -4850,6 +4873,7 @@ luhec.com
 luhupo.com
 luizuit.skin
 lukaat.com
+lumen.lat
 lunaryvibe.com
 lureens.com
 lushosa.com
@@ -4927,6 +4951,7 @@ manyima.com
 maomi.biz
 maonyn.com
 mapsguy.com
+marchslurp.com
 marchub.com
 mardiek.com
 marikuza.com
@@ -5011,6 +5036,7 @@ mitvec.com
 mixinghphw.com
 mjoiuns.org
 mjqwfv.shop
+mkj.26ai.art
 mkzaso.com
 mliok.com
 mlongmail.com
@@ -5075,6 +5101,7 @@ mw.auroracovia.com
 mxcdd.com
 mxqmail.com
 mycreativeinbox.com
+mydefipet.live
 myinfoinc.com
 mylossless.com
 mymaily.lol
@@ -5111,6 +5138,7 @@ naturalsrs.com
 navarroache.com
 naymedia.com
 naymio.com
+nbasweeps.com
 nbmbb.com
 ncien.com
 ncleap.com
@@ -5270,6 +5298,7 @@ orgasmail.com
 orgria.com
 origrar.com
 oronny.com
+orsonki.com
 ortbel.com
 ortests.com
 oryginal.eu
@@ -5319,6 +5348,7 @@ parentsxke.com
 pariag.com
 pastryofistanbul.com
 pavecode.com
+paveice.com
 paviri.com
 paxnw.com
 paylaar.com
@@ -5401,6 +5431,7 @@ prafessur.com
 prairieconnectco.com
 prdalu.com
 prehers.com
+prejuge.com
 prems.id
 preparmy.com
 prepw.com
@@ -5436,6 +5467,7 @@ publhant.com
 pubpng.com
 pudxe.com
 puilo.org
+pulsarglow.com
 pumpoly.com
 purmuttad.com
 push.tg
@@ -5457,6 +5489,7 @@ qfavori.com
 qgstored.com
 qiott.com
 qldatedq.com
+qmoveq.lat
 qnlburied.com
 qnmails.com
 qnorfolkx.com
@@ -5502,6 +5535,7 @@ re.rehearsalk.com
 reamtv.com
 reciaz.com
 recutv.com
+redir.lat
 rediscmail.xyz
 reduceness.com
 regapts.com
@@ -5650,6 +5684,7 @@ sfolkar.com
 sfpixel.com
 sfxeur.com
 sgatra.com
+sgmade.com
 shandby.com
 shapedcv.com
 sharebot.net
@@ -5673,6 +5708,7 @@ silenceion.com
 silkbyte.net
 sillylf.com
 simaenaga.com
+simense.com
 simerm.com
 siponly.com
 sirprase.com
@@ -5741,6 +5777,7 @@ spamok.com
 sparkroi.com
 speakerion.com
 speedfex.com
+spiab.biz
 spicysoda.com
 spinly.net
 splindor.com
@@ -5766,6 +5803,7 @@ stenmax.com
 steveix.com
 storegmail.net
 storypo.com
+stosan.com
 studyhub.edu.pl
 sturaman.com
 stuurmy.app
@@ -5818,6 +5856,7 @@ tansbike.com
 taoxuent.com
 tapi.re
 tapiitudulu.com
+targo.lat
 tarscon.com
 tasteofriver.com
 tatefarm.com
@@ -5853,6 +5892,7 @@ tempblockchain.com
 tempemal.com
 tempinbox.xyz
 tempmail.ai
+tempmail.cloud
 tempmail.support
 tempmailfree.com
 tempmailn.com
@@ -5878,6 +5918,7 @@ tgvis.com
 the23app.com
 theaumos.com
 theboostnexus.com
+thechiv.com
 thedaring.org
 theeditai.com
 theeyeoftruth.com
@@ -5928,6 +5969,7 @@ tongtode.com
 tonne.to
 toolexs.com
 top1gmail.com
+toque.lat
 torahti.com
 tormails.com
 tospage.com
@@ -5953,6 +5995,7 @@ trt.rehearsalk.com
 truemr.com
 truesku.com
 tt.ddip88.com
+ttmail.lat
 ttta.xintaitong.com
 tuamaeaquelaursa.com
 tubeemail.com
@@ -5969,6 +6012,7 @@ tweaksky.com
 tyincoming.com
 tymizuod.fun
 u5.prominentghost.com
+ua.majema.org
 ubinert.com
 udlicenses.com
 uforks.com
@@ -6002,6 +6046,7 @@ usharer.com
 usmary.com
 usoplay.com
 ussostunt.com
+usteel.lat
 uswaid.com
 usxxoo.com
 utiluan.com
@@ -6015,6 +6060,7 @@ uzicani.com
 v1zw.com
 v2ssr.com
 v3dev.com
+v8t7r1jiz.asia
 vaband.com
 vafyxh.com
 valuenu.com
@@ -6069,6 +6115,7 @@ vistorea.com
 vitreu.com
 viups.com
 vivoci.com
+vizar.lat
 vmilliony.com
 vmoscowmpp.com
 vncctv.org
@@ -6259,6 +6306,7 @@ yameow.com
 yanemail.com
 yangca.us
 yanimateds.com
+yao.arcadehearth.com
 yefx.info
 yehex.com
 yello.lat
@@ -6312,6 +6360,7 @@ ziragold.com
 zitadan.com
 zizvy.com
 zjeb.us
+zkh.marchslurp.com
 zlcolors.com
 zlorkun.com
 zmailman.com
@@ -6334,5 +6383,6 @@ zumaroll.com
 zvvzuv.com
 zylero.com
 zypdi.com
+zz.rehearsalk.com
 zzk.rehearsalk.com
 zzn.lingeringp.com
