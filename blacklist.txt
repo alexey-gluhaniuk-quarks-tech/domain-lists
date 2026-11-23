@@ -1,5 +1,5 @@
 # Blacklist — disposable/fraud email domains
-# Total: 6301
+# Total: 6320
 0-180.com
 0-30-24.com
 0-420.com
@@ -3356,6 +3356,7 @@ advitize.com
 affgame.com
 afia.pro
 afpeterg.com
+afronewz.com
 afterdo.com
 agaexpress.com
 aganseo.com
@@ -3435,6 +3436,7 @@ annuallyix.com
 anogz.com
 anomgo.com
 anonaddy.me
+anonmart.com
 anowt.com
 antttool.us
 anwarb.com
@@ -3534,6 +3536,7 @@ bbitf.com
 bbsaili.com
 bcarriedxl.com
 bcooq.com
+bcough.com
 bdm.ovh
 bdnets.com
 beavermail.org
@@ -3545,6 +3548,7 @@ bejum.com
 bekommenmail.com
 belettersmail.com
 belgianairways.com
+belie56.mailflusher.com
 bellecour.it.com
 beltng.com
 benshelf.com
@@ -3615,6 +3619,7 @@ boieloris.com
 boldhut.com
 bomnet.net
 bongcs.com
+bonuscable.com
 bookspre.com
 boostcraft.shop
 bootsance.com
@@ -3663,6 +3668,7 @@ burangir.com
 butcherity.com
 buy-blog.com
 buy-x.bond
+bwingmedia.com
 bwmyga.com
 byfft.xyz
 bylup.com
@@ -3810,6 +3816,7 @@ cotasen.com
 cotigz.com
 coursora.com
 cpav3.com
+cq5.roomsranked.com
 crankymonkey.info
 creadese.com
 cream.pink
@@ -3983,6 +3990,7 @@ drowblock.com
 drrieca.com
 drussellj.com
 dsgvo.party
+dsmspaces.com
 dtgun.com
 dubokutv.com
 ducenc.com
@@ -3993,6 +4001,7 @@ duiter.com
 duscore.com
 dusyum.com
 duvips.com
+dvdee.com
 dvdoto.com
 dwakm.com
 dwriters.com
@@ -4606,6 +4615,7 @@ jalunaki.com
 jameagle.com
 jarars.com
 javaemail.com
+javafs.com
 javbing.com
 jawline.site
 jazipo.com
@@ -4715,6 +4725,7 @@ kpl.ovh
 kplover.com
 kpopfire.com
 kpost.be
+kranove.com
 kristenwhi222.buzz
 kuandika.com
 kubi91.cyou
@@ -4852,7 +4863,9 @@ maazios.com
 macho3.com
 machunu.com
 macr2.com
+macsnipe.com
 madisonhk.us
+madupot.com
 magim.be
 magin.be
 magpit.com
@@ -4935,6 +4948,7 @@ medevsa.com
 mediaeast.uk
 mediaholy.com
 mediseat.com
+meetgiants.com
 megamyx.win
 meidecn.com
 meikeya.com
@@ -4961,6 +4975,7 @@ mf.pointnexus.org
 mfxis.com
 mggovernor.com
 micorna.biz
+micropaste.com
 micrrove.com
 mimimail.me
 minafter.com
@@ -5340,6 +5355,7 @@ pluniversity.edu.pl
 pmail.asia
 pmdeal.com
 pngzero.com
+poemment.com
 poenir.com
 poesd.com
 pofmagic.co
@@ -5514,6 +5530,7 @@ rogtat.com
 rohoza.com
 rolenot.com
 ronete.com
+roomsranked.com
 roratu.com
 rosuper.com
 rowplant.com
@@ -5590,6 +5607,7 @@ secria.me
 sectorid.com
 seek4wap.com
 seemsence.com
+seesdrd.com
 sefin.lat
 seggost.com
 segichen.com
@@ -6008,6 +6026,7 @@ vengerberg.cyou
 veospot.com
 vexira.shop
 vgein.com
+vgmale.com
 vhoutdoor.com
 via.tokyo.jp
 viasuma.com
