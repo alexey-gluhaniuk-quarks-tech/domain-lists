@@ -14,3 +14,8 @@ exact:mx.paxeluni.com
 exact:mx.pointnexus.org
 exact:mx.xzcoot.com
 exact:mx.lucktaro.com
+exact:mx.arcadehearth.com
+exact:mx.majema.org
+exact:mx.marchslurp.com
+exact:mx.roomsranked.com
+exact:shadequark.com
